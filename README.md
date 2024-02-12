@@ -32,7 +32,9 @@ Open the project in Android Studio.
 # Set up Firebase:
 
 1)Create a Firebase project on the Firebase Console.
+
 2)Add your Firebase configuration to the app.
+
 3)Build and run the app on your device or emulator.
 
 # Usage
