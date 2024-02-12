@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="as">#FF171616</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appcolor">#623a6c</color>
+    <color name="applcolor">#441c4e</color>
+    <color name="restcolor">#fae17c</color>
+    <color name="rest2color">#FAE79A</color>
+
+    <color name="cool_blue">#0091EA</color>
+    <color name="cool_green">#64DD17</color>
+    <color name="cool_pink">#F50057</color>
+    <color name="yellow">#FFD600</color>
+</resources>
