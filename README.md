@@ -42,8 +42,32 @@ Open the project in Android Studio.
 
 3)Control playback using the notification controls, even when the app is in the background.
 
+4)We have different Categories such as Classic , English , Hindi , Rap and Trending. In each category there are multiple songs. We also have differnt Sectons such as Trending , Classic , All Time Hit . In each sections there are many songs. 
+
 4)Utilize additional features such as the repeat button, equalizer, timer, and share button.
 
 5)Use the exit button in the notification to stop playback and exit the app.
 
 # Screenshots
+
+<p float="left">
+  <img src="ScreenShots/ss1.jpeg" alt="Screenshot 1" width="400"/>
+  <img src="ScreenShots/ss2.jpeg" alt="Screenshot 2" width="400" />
+</p>
+<p float="left">
+  <img src="ScreenShots/ss3.jpeg" alt="Screenshot 3" width="400"/>
+  <img src="ScreenShots/ss4.jpeg" alt="Screenshot 4" width="400" />
+</p>
+<p float="left">
+  <img src="ScreenShots/ss5.jpeg" alt="Screenshot 5" width="400"/>
+  <img src="ScreenShots/ss6.jpeg" alt="Screenshot 6" width="400" />
+</p>
+
+# Support
+For any issues or inquiries, please open an issue.
+
+Feel the music with Reso! 🎧
+
+
+
+
